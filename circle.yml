@@ -4,7 +4,3 @@ checkout:
     - git submodule update --init --recursive
     - git submodule sync
     - git submodule update --init --recursive
-
-dependencies:
-  cache_directories:
-    - linux
